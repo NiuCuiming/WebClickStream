@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/MyProject/MyProject.iml" filepath="$PROJECT_DIR$/MyProject/MyProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SourceProject/SourceProject.iml" filepath="$PROJECT_DIR$/SourceProject/SourceProject.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web_click_mr_hive.iml" filepath="$PROJECT_DIR$/web_click_mr_hive.iml" />
+    </modules>
+  </component>
+</project>
